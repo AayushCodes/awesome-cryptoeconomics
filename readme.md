@@ -1,56 +1,6 @@
-# Awesome Cryptoeconomics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-> A curated list of awesome resources for Cryptoeconomics research
-
-Looking for contributors. Submit a pull request if you have something to add :)
-
-_Please check the [contribution guidelines](contributing.md) for info on formatting and writing pull requests._
-
-<!-- MarkdownTOC depth=5 -->
-
-## Table of Contents
--   [Cryptoeconomics](#cryptoeconomics)
-    -   [Articles](#articles)
-        -   [Introductory](#introductory)
-        -   [Game Theory](#game-theory)
-        -   [Mechanism Design](#mechanism-design)
-        -   [Cryptographic Primitives](#cryptographic-primitives)
-        -   [Consensus Mechanisms](#consensus-mechanisms)
-        -   [Network Effects](#network-effects)
-        -   [Governance](#governance)
-        -   [Cryptoeconomic Security](#cryptoeconomic-security)
-        -   [Token Engineering](#token-engineering)
-        -   [Cryptoeconomic Primitives](#cryptoeconomic-primitives)
-        -   [Tokenomics](#tokenomics)
-        -   [Stablecoins](#stablecoins)
-        -   [State Channels](#state-channels)
-        -   [Empirical Cryptoeconomics](#empirical-cryptoeconomics)
-    -   [Videos](#videos)
-        -   [Consensus Protocols](#consensus-protocols)
-        -   [Cryptoeconomics](#cryptoeconomics)
-        -   [State Channels](#state-channels)
-        -   [Cryptoeconomic Security](#cryptoeconomic-security)
-        -   [Cryptography](#cryptography)
-        -   [Additional](#additional)
-    -   [Podcasts](#podcasts)
-    -   [Whitepapers](#whitepapers)
-    -   [Other Resources](#other-resources)
-    -   [Blockchain Hacks and Post-mortems](#hacks)
-        -   [The DAO](#the-dao)
-        -   [Parity MultiSig](#parity-multisig)
-        -   [Bancor](#bancor)
-        -   [King of Ether](#king-of-ether)
-        -   [Roulette](#roulette)
--   [Additional Information](#additional-information-and-related-topics)
-    -   [Behavioural Economics](#behavioural-economics)
-    -   [Economics](#economics)
-    -   [Cryptography](#cryptography)
-
-<!-- /MarkdownTOC -->
-
 ## Articles
 
 ### Introductory
-1.  [Cryptoeconomics for dummies](https://medium.com/@j32804/cryptoeconomics-for-dummies-part-0-7172efa81507)
 1.  [Cryptoeconomics 101](https://thecontrol.co/cryptoeconomics-101-e5c883e9a8ff)
 1.  [Making Sense of Cryptoeconomics](https://medium.com/l4-media/making-sense-of-cryptoeconomics-c6455776669) Making Sense of Cryptoeconomics by Josh Stark
 1.  [What is Cryptoeconomics](https://blockgeeks.com/guides/what-is-cryptoeconomics/) What is Cryptoeconomics, a guide by BlockGeeks
